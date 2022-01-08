@@ -2,7 +2,7 @@
 
 # Yelp business reviews Using Topic modeling, Sentiment Analysis and Recommendation system
  
- <img src="https://github.com/talbaiz/NLP/blob/main/vlkLvfxGA4RvTRTF.png" width="800" height="400" /> 
+ <img src="https://github.com/talbaiz/NLP/blob/main/Yelp.png" width="800" height="400" /> 
 
 ## Introduction
 
